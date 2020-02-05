@@ -1,4 +1,4 @@
-#summary 
+# summary 
 ## lab 6 a
 Read 06 steps:
 1- Create new repo on GitHub and name it practice-js
